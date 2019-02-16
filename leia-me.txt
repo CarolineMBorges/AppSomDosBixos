@@ -1,0 +1,2 @@
+Este aplicativo imita o som de um animal quando o usuário clica na imagem correspondente.
+Cada imagem tem um id, e através de um swicth, quando uma imagem é clicada, o som correspondente do animal pode ser ouvido.
